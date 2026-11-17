@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="230" viewBox="0 0 1000 230" role="img" aria-label="GitHub statistics will be generated automatically">
+<rect width="1000" height="230" rx="18" fill="#08080B" stroke="#38383F"/>
+<text x="40" y="58" fill="#F2F2F5" font-family="Arial,sans-serif" font-size="22" font-weight="bold">GITHUB ACTIVITY</text>
+<text x="40" y="105" fill="#BFC0C8" font-family="Arial,sans-serif" font-size="16">The first automatic statistics update is running.</text>
+<text x="40" y="145" fill="#777780" font-family="Arial,sans-serif" font-size="13">This graphic is generated from public GitHub repository data.</text>
+</svg>
