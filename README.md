@@ -1,9 +1,3 @@
-<!--
-  TIMON — GitHub Profile README
-  Chrome / monochrome edition
-  Everything on this profile is rendered from this README.md.
--->
-
 <div align="center">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=230&section=header&text=Timon&fontSize=82&fontColor=F5F5F7&fontAlignY=37&desc=SOFTWARE%20%2F%20CREATIVE%20TECH%20%2F%20EVENT%20TECH&descSize=13&descAlignY=60&descColor=C2C2CA&color=0:050506,35:17171C,68:38383F,100:09090B&animation=fadeIn" alt="Timon — Software, Creative Tech and Event Tech"/>
