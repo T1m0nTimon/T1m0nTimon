@@ -204,8 +204,8 @@ A project connected to the world of stage and event technology — where digital
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=T1m0nTimon&show_icons=true&include_all_commits=true&rank_icon=github&hide_border=true&border_radius=12&bg_color=08080B&title_color=F2F2F5&text_color=BFC0C8&icon_color=D8D8DE&ring_color=C8C8D0&custom_title=GITHUB%20OVERVIEW" alt="GitHub overview statistics"/>
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=T1m0nTimon&layout=compact&langs_count=7&hide_border=true&border_radius=12&bg_color=08080B&title_color=F2F2F5&text_color=BFC0C8&icon_color=D8D8DE&custom_title=LANGUAGES" alt="Most used languages"/>
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=T1m0nTimon&theme=github_dark" alt="GitHub overview statistics"/>
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=T1m0nTimon&theme=github_dark" alt="Most used languages"/>
 
 <br/><br/>
 
