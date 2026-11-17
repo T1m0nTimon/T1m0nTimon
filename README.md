@@ -228,8 +228,33 @@ A project connected to the world of stage and event technology — where digital
 
 <div align="center">
 
-<img width="100%" src="https://github-profile-trophy.vercel.app/?username=T1m0nTimon&theme=onestar&no-frame=true&no-bg=true&margin-w=8&column=4" alt="GitHub profile trophies"/>
+<img src="https://img.shields.io/github?label=PUBLIC%20REPOSITORIES&logo=github&style=for-the-badge&color=17171C&labelColor=08080B" alt="GitHub public repositories"/>
+<img src="https://img.shields.io/github/followers/T1m0nTimon?label=FOLLOWERS&logo=github&style=for-the-badge&color=17171C&labelColor=08080B" alt="GitHub followers"/>
+<img src="https://img.shields.io/github/stars/T1m0nTimon?affiliations=OWNER&label=STARS&logo=github&style=for-the-badge&color=17171C&labelColor=08080B" alt="Stars on my repositories"/>
 
+</div>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**LEARNING BY DOING**
+
+Every project teaches me something new. Some things work straight away, others need a few attempts — both are part of getting better.
+
+</td>
+<td width="50%" valign="top">
+
+**BUILDING WITH PURPOSE**
+
+From small Python experiments to bigger tools for event technology, I enjoy turning ideas into working projects and improving them over time.
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+<sub>GitHub's official achievements are shown on my <a href="https://github.com/T1m0nTimon">GitHub profile</a>. This section uses simple badges instead of an external trophy image service.</sub>
 </div>
 
 ---
