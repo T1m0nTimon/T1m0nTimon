@@ -204,20 +204,14 @@ A project connected to the world of stage and event technology — where digital
 
 <div align="center">
 
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=T1m0nTimon&theme=github_dark" alt="GitHub overview statistics"/>
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=T1m0nTimon&theme=github_dark" alt="Most used languages"/>
-
-<br/><br/>
-
-<img width="70%" src="https://streak-stats.demolab.com?user=T1m0nTimon&hide_border=true&border_radius=12&background=08080B&ring=C8C8D0&fire=F2F2F5&currStreakLabel=F2F2F5&sideLabels=BFC0C8&dates=777780&currStreakNum=F2F2F5&sideNums=F2F2F5" alt="GitHub contribution streak"/>
-
-<br/><br/>
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=T1m0nTimon&bg_color=08080B&color=BFC0C8&line=C8C8D0&point=F2F2F5&area=true&area_color=777780&hide_border=true&radius=12&custom_title=CONTRIBUTION%20ACTIVITY" alt="GitHub contribution activity"/>
+<img width="49%" src="https://github-stats-extended.vercel.app/api?username=T1m0nTimon&show_icons=true&hide_border=true&bg_color=08080B&title_color=F2F2F5&text_color=BFC0C8&icon_color=C8C8D0&cache_seconds=86400" alt="GitHub overview statistics"/>
+<img width="49%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=T1m0nTimon&layout=compact&hide_border=true&bg_color=08080B&title_color=F2F2F5&text_color=BFC0C8&langs_count=8&cache_seconds=86400" alt="Most used languages"/>
 
 </div>
 
-<sub>Note: These cards are provided by external services and may take a moment to load. Their displayed data depends on what GitHub makes available publicly.</sub>
+<sub>These cards summarize public repository data and may be cached. GitHub's native contribution calendar below the profile README remains the source for daily contribution activity.</sub>
+
+<p align="center"><a href="https://github.com/T1m0nTimon#yearly-activity-overview">View my GitHub contribution activity ↗</a></p>
 
 ---
 
