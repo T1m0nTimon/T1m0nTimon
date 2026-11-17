@@ -1,121 +1,142 @@
+<!--
+  TIMON / GITHUB PROFILE
+  Visual direction: monochrome chrome, deep black, soft glass and editorial typography.
+-->
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=190&section=header&text=Timon&fontSize=64&fontColor=F4F4F7&fontAlignY=36&desc=DEVELOPER%20%20%E2%80%A2%20%20CREATIVE%20TECH%20%20%E2%80%A2%20%20EVENT%20TECH&descSize=13&descAlignY=59&descColor=B8B8C2&color=0:030304,45:292930,100:777780" width="100%" alt="Timon – Developer and Event Technology" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=210&section=header&text=Timon&fontSize=76&fontColor=F4F4F7&fontAlignY=38&desc=DEVELOPER%20%20%2F%20%20CREATIVE%20TECH%20%20%2F%20%20EVENT%20TECH&descSize=12&descAlignY=61&descColor=B8B8C2&color=0:030304,48:25252B,100:08080B&animation=fadeIn" alt="Timon — Developer, Creative Tech and Event Tech" />
 
-# TIMON
+<br/>
 
-**Building things. Solving problems. Making ideas work.**
+<a href="https://t1m0n.vercel.app"><img src="https://img.shields.io/badge/PORTFOLIO-t1m0n.vercel.app-F4F4F7?style=for-the-badge&labelColor=111116" alt="Portfolio"/></a>
+&nbsp;
+<a href="https://github.com/T1m0nTimon?tab=repositories"><img src="https://img.shields.io/badge/PROJECTS-EXPLORE-F4F4F7?style=for-the-badge&logo=github&logoColor=white&labelColor=111116" alt="Projects"/></a>
 
-[![Portfolio](https://img.shields.io/badge/PORTFOLIO-t1m0n.vercel.app-F4F4F7?style=for-the-badge&labelColor=111116)](https://t1m0n.vercel.app)
-[![GitHub](https://img.shields.io/badge/GITHUB-T1m0nTimon-F4F4F7?style=for-the-badge&logo=github&logoColor=white&labelColor=111116)](https://github.com/T1m0nTimon)
+<br/><br/>
+<sub><samp>GERMANY&nbsp;&nbsp;·&nbsp;&nbsp;HE / HIM&nbsp;&nbsp;·&nbsp;&nbsp;ALWAYS BUILDING SOMETHING</samp></sub>
 
+</div>
+
+<br/>
+
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=14&duration=3200&pause=1100&color=B8B8C2&center=true&vCenter=true&width=650&lines=Building+ideas+into+real+projects.;Code+%2B+Creativity+%2B+Technology.;From+the+first+line+of+code+to+the+last+cue." alt="A short introduction"/>
 </div>
 
 ---
 
-## `01 / ABOUT`
-
-Hey, I'm **Timon** — a creative and tech-minded person from Germany.
-
-I enjoy turning ideas into real projects: from Python applications and web interfaces to bots, automation and technical systems. Outside of software, I'm especially interested in **event technology** — lighting, audio, rigging and everything that makes an event happen.
-
-I like learning by building, experimenting with new tools and improving projects step by step.
-
-## `02 / FOCUS`
-
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="58%" valign="top">
 
-### SOFTWARE & DEVELOPMENT
+### 01 / ABOUT
 
-- Python applications and automation
-- Web development and modern interfaces
-- Discord bots and integrations
-- Self-hosting, Linux and server projects
-- Learning TypeScript and frontend technologies
+Hi, I'm **Timon**.
+
+I'm interested in the things that happen where technology and creativity meet. I build software, experiment with new ideas and enjoy understanding how systems work — from the code behind an application to the technology behind a live event.
+
+My main interests are **software development**, **web technologies**, **automation** and **event technology**.
+
+I believe the best way to learn is to build something, test it, break it, and make it better.
 
 </td>
-<td width="50%" valign="top">
+<td width="42%" valign="top">
 
-### EVENT TECHNOLOGY
+### 02 / CURRENT FOCUS
 
-- Lighting and show control
-- Audio and signal routing
-- Rigging and stage technology
-- DMX and network-based systems
-- Planning and technical realization
+- Developing with **Python**
+- Exploring **TypeScript** and web technologies
+- Building bots, tools and useful applications
+- Learning more about **Linux**, servers and self-hosting
+- Working with lighting, audio and event systems
 
 </td>
 </tr>
 </table>
 
-## `03 / TECH STACK`
+## 03 / WHAT I WORK WITH
 
 <div align="center">
 
-**Languages & Web**
+**LANGUAGES & DEVELOPMENT**
 
-![Python](https://img.shields.io/badge/Python-111116?style=for-the-badge&logo=python&logoColor=F4F4F7)
-![HTML5](https://img.shields.io/badge/HTML5-111116?style=for-the-badge&logo=html5&logoColor=F4F4F7)
-![CSS3](https://img.shields.io/badge/CSS3-111116?style=for-the-badge&logo=css3&logoColor=F4F4F7)
-![JavaScript](https://img.shields.io/badge/JavaScript-111116?style=for-the-badge&logo=javascript&logoColor=F4F4F7)
-![TypeScript](https://img.shields.io/badge/TypeScript-111116?style=for-the-badge&logo=typescript&logoColor=F4F4F7)
+<img src="https://skillicons.dev/icons?i=python,ts,js,html,css&theme=dark" alt="Python, TypeScript, JavaScript, HTML and CSS"/>
 
-**Tools & Platforms**
+<br/><br/>
 
-![VS Code](https://img.shields.io/badge/VS%20Code-111116?style=for-the-badge&logo=visualstudiocode&logoColor=F4F4F7)
-![Git](https://img.shields.io/badge/Git-111116?style=for-the-badge&logo=git&logoColor=F4F4F7)
-![GitHub](https://img.shields.io/badge/GitHub-111116?style=for-the-badge&logo=github&logoColor=F4F4F7)
-![Linux](https://img.shields.io/badge/Linux-111116?style=for-the-badge&logo=linux&logoColor=F4F4F7)
-![Docker](https://img.shields.io/badge/Docker-111116?style=for-the-badge&logo=docker&logoColor=F4F4F7)
+**TOOLS & TECHNOLOGIES**
+
+<img src="https://skillicons.dev/icons?i=vscode,git,github,linux,docker,flask,nextjs&theme=dark" alt="VS Code, Git, GitHub, Linux, Docker, Flask and Next.js"/>
 
 </div>
 
-## `04 / PUBLIC PROJECTS`
-
-A selection of my public work, updated automatically from GitHub.
-
-<!-- PUBLIC-REPOSITORIES:START -->
-_The public repository list will appear here after the first workflow run._
-<!-- PUBLIC-REPOSITORIES:END -->
+## 04 / SELECTED PROJECT
 
 <div align="center">
 
-[**Explore all public repositories →**](https://github.com/T1m0nTimon?tab=repositories)
+<a href="https://github.com/T1m0nTimon/halloween-spooker">
+<img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=T1m0nTimon&repo=halloween-spooker&hide_border=true&bg_color=08080B&title_color=F4F4F7&text_color=B8B8C2&icon_color=E4E4EA" alt="halloween-spooker repository card"/>
+</a>
+
+<br/>
+
+<a href="https://github.com/T1m0nTimon?tab=repositories"><img src="https://img.shields.io/badge/VIEW_ALL_PUBLIC_REPOSITORIES-↗-111116?style=for-the-badge&labelColor=111116&color=777780" alt="View all public repositories"/></a>
 
 </div>
 
-## `05 / GITHUB STATISTICS`
+## 05 / GITHUB STATISTICS
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=T1m0nTimon&show_icons=true&include_all_commits=true&hide_border=true&bg_color=030304&title_color=F4F4F7&text_color=B8B8C2&icon_color=C7C7D0&ring_color=C7C7D0&custom_title=GitHub%20Overview" alt="GitHub statistics" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=T1m0nTimon&layout=compact&langs_count=6&hide_border=true&bg_color=030304&title_color=F4F4F7&text_color=B8B8C2&icon_color=C7C7D0&custom_title=Most%20Used%20Languages" alt="Most used programming languages" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=T1m0nTimon&show_icons=true&include_all_commits=true&rank_icon=github&hide_border=true&bg_color=08080B&title_color=F4F4F7&text_color=B8B8C2&icon_color=E4E4EA&ring_color=C7C7D0&custom_title=GITHUB%20OVERVIEW" alt="GitHub overview statistics"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=T1m0nTimon&layout=compact&langs_count=6&hide_border=true&bg_color=08080B&title_color=F4F4F7&text_color=B8B8C2&icon_color=E4E4EA&custom_title=LANGUAGES" alt="Most used languages"/>
 
-<img width="70%" src="https://streak-stats.demolab.com?user=T1m0nTimon&hide_border=true&background=030304&ring=C7C7D0&fire=F4F4F7&currStreakLabel=F4F4F7&sideLabels=B8B8C2&dates=777780&currStreakNum=F4F4F7&sideNums=F4F4F7" alt="GitHub contribution streak" />
+<br/>
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=T1m0nTimon&bg_color=030304&color=B8B8C2&line=C7C7D0&point=F4F4F7&area=true&area_color=777780&hide_border=true&custom_title=Contribution%20Activity" alt="GitHub contribution activity graph" />
+<img width="70%" src="https://streak-stats.demolab.com?user=T1m0nTimon&hide_border=true&background=08080B&ring=C7C7D0&fire=F4F4F7&currStreakLabel=F4F4F7&sideLabels=B8B8C2&dates=777780&currStreakNum=F4F4F7&sideNums=F4F4F7" alt="GitHub contribution streak"/>
+
+<br/>
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=T1m0nTimon&bg_color=08080B&color=B8B8C2&line=C7C7D0&point=F4F4F7&area=true&area_color=777780&hide_border=true&custom_title=CONTRIBUTION%20ACTIVITY" alt="GitHub contribution activity"/>
 
 </div>
 
-## `06 / AROUND THE WEB`
+## 06 / BEYOND THE CODE
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**EVENT TECHNOLOGY**
+
+Lighting · Audio · Rigging · Show control
+
+I enjoy the technical side of live events — planning systems, connecting equipment and helping turn an idea into a real show.
+
+</td>
+<td width="50%" valign="top">
+
+**CREATIVE PROJECTS**
+
+Websites · Bots · Tools · Experiments
+
+I like creating things that are useful, thoughtfully designed and fun to work on.
+
+</td>
+</tr>
+</table>
+
+## 07 / FIND ME
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Website-111116?style=flat-square&logo=vercel&logoColor=F4F4F7)](https://t1m0n.vercel.app)
-[![GitHub](https://img.shields.io/badge/GitHub-111116?style=flat-square&logo=github&logoColor=F4F4F7)](https://github.com/T1m0nTimon)
-[![Novora MC](https://img.shields.io/badge/Novora--MC-111116?style=flat-square&logo=minecraft&logoColor=F4F4F7)](https://github.com/Novora-MC)
-[![Stage Manager](https://img.shields.io/badge/Stage--Manager-111116?style=flat-square&logo=github&logoColor=F4F4F7)](https://github.com/Stage-Manager)
+<a href="https://t1m0n.vercel.app"><img src="https://img.shields.io/badge/WEBSITE-030304?style=for-the-badge&logo=vercel&logoColor=F4F4F7" alt="Website"/></a>
+<a href="https://github.com/T1m0nTimon"><img src="https://img.shields.io/badge/GITHUB-030304?style=for-the-badge&logo=github&logoColor=F4F4F7" alt="GitHub"/></a>
 
-</div>
+<br/><br/>
+<sub><samp>THANKS FOR STOPPING BY.</samp></sub>
 
----
-
-<div align="center">
-
-<sub>Designed with a monochrome / chrome aesthetic · Built by Timon</sub>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=90&section=footer&color=0:777780,55:292930,100:030304" width="100%" alt="" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=0:08080B,55:25252B,100:030304" alt=""/>
 
 </div>
