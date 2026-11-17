@@ -198,14 +198,13 @@ A project connected to the world of stage and event technology — where digital
 
 <div align="center">
 
-<img width="49%" src="https://github-stats-extended.vercel.app/api?username=T1m0nTimon&show_icons=true&hide_border=true&bg_color=08080B&title_color=F2F2F5&text_color=BFC0C8&icon_color=C8C8D0&cache_seconds=86400" alt="GitHub overview statistics"/>
-<img width="49%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=T1m0nTimon&layout=compact&hide_border=true&bg_color=08080B&title_color=F2F2F5&text_color=BFC0C8&langs_count=8&cache_seconds=86400" alt="Most used languages"/>
+<img width="100%" src="https://raw.githubusercontent.com/T1m0nTimon/T1m0nTimon/main/assets/github-stats.svg" alt="Automatically generated GitHub statistics"/>
 
 </div>
 
-<sub>These cards summarize public repository data and may be cached. GitHub's native contribution calendar below the profile README remains the source for daily contribution activity.</sub>
+<sub>Generated from public repositories with the GitHub API. GitHub Actions refreshes this graphic every six hours and after changes to the statistics generator. Daily contributions remain visible in GitHub's native contribution calendar.</sub>
 
-<p align="center"><a href="https://github.com/T1m0nTimon#yearly-activity-overview">View my GitHub contribution activity ↗</a></p>
+<p align="center"><a href="https://github.com/T1m0nTimon">View my GitHub profile and contribution calendar ↗</a></p>
 
 ---
 
@@ -255,24 +254,23 @@ From small Python experiments to bigger tools for event technology, I enjoy turn
 <tr>
 <td width="50%" valign="top">
 
-### NOW / 🇩🇪
+### CURRENT FOCUS
 
-- Improving my Python projects
-- Exploring modern web development
-- Learning more about audio and signal routing
-- Building and maintaining practical tools
-- Getting better through real projects
+- Developing tools around event technology and production workflows
+- Working with Python, Flask and web applications
+- Building practical automation and Discord tools
+- Exploring audio systems, signal routing and live-event technology
 
 </td>
 <td width="50%" valign="top">
 
-### NEXT / 🇬🇧
+### WHAT'S NEXT
 
-- Make my projects more polished
-- Learn more TypeScript and frontend development
-- Understand event audio systems in more depth
-- Connect software with practical event workflows
-- Keep experimenting and collaborating
+- Improve the quality and usability of my existing projects
+- Deepen my TypeScript and frontend knowledge
+- Understand professional audio workflows in more depth
+- Connect software more closely with real event production
+- Keep learning by building and collaborating
 
 </td>
 </tr>
@@ -290,14 +288,14 @@ From small Python experiments to bigger tools for event technology, I enjoy turn
 
 **01**
 
-<sub>IDEA</sub>
+<sub>FIRST PROJECTS</sub>
 
 </td>
 <td width="78%" valign="top">
 
-**Find something worth building**
+**Learning through Python and Discord bots**
 
-An idea, a problem or simply something I want to understand.
+Started experimenting with code, automation and tools for online communities.
 
 </td>
 </tr>
@@ -306,14 +304,14 @@ An idea, a problem or simply something I want to understand.
 
 **02**
 
-<sub>EXPERIMENT</sub>
+<sub>WEB & SYSTEMS</sub>
 
 </td>
 <td width="78%" valign="top">
 
-**Try things out**
+**Moving beyond small scripts**
 
-Write code, connect equipment, test workflows and learn how it works.
+Explored web applications, dashboards, Linux, servers and self-hosted services.
 
 </td>
 </tr>
@@ -322,14 +320,14 @@ Write code, connect equipment, test workflows and learn how it works.
 
 **03**
 
-<sub>IMPROVE</sub>
+<sub>EVENT TECHNOLOGY</sub>
 
 </td>
 <td width="78%" valign="top">
 
-**Make it better**
+**Connecting digital tools with live production**
 
-Fix mistakes, rethink solutions and improve the result step by step.
+Got deeper into lighting, audio, signal routing, rigging and the workflows behind events.
 
 </td>
 </tr>
@@ -338,14 +336,14 @@ Fix mistakes, rethink solutions and improve the result step by step.
 
 **04**
 
-<sub>SHARE</sub>
+<sub>WHAT'S AHEAD</sub>
 
 </td>
 <td width="78%" valign="top">
 
-**Build something useful**
+**Building more useful things**
 
-Finish projects, share what I learn and take the next idea further.
+Bringing software development and event technology closer together through practical projects.
 
 </td>
 </tr>
@@ -380,6 +378,12 @@ Finish projects, share what I learn and take the next idea further.
   <a href="https://github.com/T1m0nTimon">
     <img src="https://img.shields.io/badge/GITHUB-EEEEF2?style=for-the-badge&logo=github&logoColor=17171C&labelColor=EEEEF2" alt="GitHub"/>
   </a>
+
+  <br/><br/>
+
+  **Have a question, an idea or want to collaborate?**
+
+  <sub>Feel free to reach out through GitHub or visit my portfolio to see more of my work.</sub>
 
   <br/><br/>
 
