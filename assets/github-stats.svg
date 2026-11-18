@@ -1,7 +1,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1000" height="250" viewBox="0 0 1000 250" role="img" aria-label="Public GitHub repository statistics">
 <rect width="1000" height="250" rx="18" fill="#08080B" stroke="#38383F"/>
 <text x="36" y="42" fill="#BFC0C8" font-family="Arial,sans-serif" font-size="15" font-weight="bold">PUBLIC GITHUB OVERVIEW</text>
-<text x="36" y="94" fill="#F2F2F5" font-family="Arial,sans-serif" font-size="30" font-weight="bold">2</text>
+<text x="36" y="94" fill="#F2F2F5" font-family="Arial,sans-serif" font-size="30" font-weight="bold">3</text>
 <text x="36" y="119" fill="#777780" font-family="Arial,sans-serif" font-size="11" font-weight="bold">PUBLIC REPOSITORIES</text>
 <text x="205" y="94" fill="#F2F2F5" font-family="Arial,sans-serif" font-size="30" font-weight="bold">0</text>
 <text x="205" y="119" fill="#777780" font-family="Arial,sans-serif" font-size="11" font-weight="bold">TOTAL STARS</text>
@@ -10,7 +10,23 @@
 <text x="555" y="42" fill="#BFC0C8" font-family="Arial,sans-serif" font-size="15" font-weight="bold">LANGUAGES BY CODE SIZE</text>
 <text x="555" y="108" fill="#F2F2F5" font-family="Arial,sans-serif" font-size="13" font-weight="normal">JavaScript</text>
 <rect x="690" y="96" width="210" height="8" rx="4" fill="#25252C"/>
-<rect x="690" y="96" width="210.0" height="8" rx="4" fill="#F2F2F5"/>
-<text x="920" y="108" fill="#BFC0C8" font-family="Arial,sans-serif" font-size="12" font-weight="normal">100.0%</text>
+<rect x="690" y="96" width="103.3" height="8" rx="4" fill="#F2F2F5"/>
+<text x="920" y="108" fill="#BFC0C8" font-family="Arial,sans-serif" font-size="12" font-weight="normal">49.2%</text>
+<text x="555" y="131" fill="#F2F2F5" font-family="Arial,sans-serif" font-size="13" font-weight="normal">Python</text>
+<rect x="690" y="119" width="210" height="8" rx="4" fill="#25252C"/>
+<rect x="690" y="119" width="56.3" height="8" rx="4" fill="#C8C8D0"/>
+<text x="920" y="131" fill="#BFC0C8" font-family="Arial,sans-serif" font-size="12" font-weight="normal">26.8%</text>
+<text x="555" y="154" fill="#F2F2F5" font-family="Arial,sans-serif" font-size="13" font-weight="normal">TypeScript</text>
+<rect x="690" y="142" width="210" height="8" rx="4" fill="#25252C"/>
+<rect x="690" y="142" width="46.7" height="8" rx="4" fill="#A0A0AA"/>
+<text x="920" y="154" fill="#BFC0C8" font-family="Arial,sans-serif" font-size="12" font-weight="normal">22.3%</text>
+<text x="555" y="177" fill="#F2F2F5" font-family="Arial,sans-serif" font-size="13" font-weight="normal">CSS</text>
+<rect x="690" y="165" width="210" height="8" rx="4" fill="#25252C"/>
+<rect x="690" y="165" width="1.4" height="8" rx="4" fill="#777780"/>
+<text x="920" y="177" fill="#BFC0C8" font-family="Arial,sans-serif" font-size="12" font-weight="normal">0.6%</text>
+<text x="555" y="200" fill="#F2F2F5" font-family="Arial,sans-serif" font-size="13" font-weight="normal">Dockerfile</text>
+<rect x="690" y="188" width="210" height="8" rx="4" fill="#25252C"/>
+<rect x="690" y="188" width="0.5" height="8" rx="4" fill="#55555F"/>
+<text x="920" y="200" fill="#BFC0C8" font-family="Arial,sans-serif" font-size="12" font-weight="normal">0.3%</text>
 <text x="36" y="220" fill="#777780" font-family="Arial,sans-serif" font-size="11" font-weight="normal">Generated from GitHub's public API · Updated automatically</text>
 </svg>
